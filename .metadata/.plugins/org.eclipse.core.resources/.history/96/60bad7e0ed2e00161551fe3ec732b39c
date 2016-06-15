@@ -1,0 +1,5 @@
+package com.niit.mybookshelf.dao;
+
+public class UserDAO {
+
+}

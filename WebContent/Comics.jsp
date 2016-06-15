@@ -14,19 +14,20 @@
 <body>
 <div class="container">
 <div class="row">
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\superman1.jpg">Superman1</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\superman2.jpg">Superman2</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\superman3.jpg">Superman3</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\batman1.jpg">Batman1</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\batman2.jpg">Batman2</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\batman3.jpg">Batman3</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\batmanvssuperman.jpg">Batman vs Superman</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\young justice1.jpg">Young Justice1</div></div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\young justice2.jpg">Young Jutice2</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\young justice3.jpg">Young Justice3</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\marvel1.jpg">Marvel1</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\marvel2.jpg">Marvel2</div>
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\marvel3.jpg">Marvel3</div>
+<div class="col-sm-6"><img class="img-responsive" src="superman1.jpg" height="100px" width="100px">Superman1</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="superman2.jpg" height="100px" width="100px">Superman2</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="superman3.jpg" height="100px" width="100px">Superman3</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="batman1.jpg" height="500px" width="100px">Batman1</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="batman2.jpg" height="100px" width="100px">Batman2</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="batman3.jpg" height="100px" width="100px">Batman3</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="batmanvssuperman.jpg" height="100px" width="100px">Batman vs Superman</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="young justice1.jpg" height="100px" width="100px">Young Justice1</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="young justice2.jpg" height="100px" width="100px">Young Jutice2</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="young justice3.jpg" height="100px" width="100px">Young Justice3</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="marvel1.jpg" height="100px" width="100px">Marvel1</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="marvel2.jpg" height="100px" width="100px">Marvel2</div><br>
+<div class="col-sm-6"><img class="img-responsive" src="marvel3.jpg" height="100px" width="100px">Marvel3</div>
+</div>
 </div>
 </body>
 </html>

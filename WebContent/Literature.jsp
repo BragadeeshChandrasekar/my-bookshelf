@@ -14,20 +14,14 @@
 <body>
 <h2>LITERATURE</h2>
 <div class="container">
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\literature1.jpg">Literature1</div>
-<p>One of the best book about literature by Oxford.It is one of the quality worth books.
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\literature2.jpg">Literature2</div>
-<p>Best useful
-<div class="col-sm-6"><img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\literature3.jpg">Literature3</div>
-<img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\literature4.jpg">Literature4</div>
-<img class="img-responsive" src="C:\Users\C Bragadeesh\Downloads\literature5.jpg">Literature5</div>
+<div class="col-sm-6"><img class="img-responsive" src="literature1.jpg">Literature1</div>
+<p>One of the best book about literature by Oxford.Read more...</p>
+<div class="col-sm-6"><img class="img-responsive" src="literature2.jpg">Literature2</div>
+<p>Best useful for people who love to learn.Read more...</p>
+<div class="col-sm-6"><img class="img-responsive" src="literature3.jpg">Literature3</div>
+<p>Timeless voices,Timeless thems is Prentice Hall's best selling book.Read more...</p>
+<div class="col-sm-6"><img class="img-responsive" src="literature4.jpg">Literature4</div>
+<p>Radiance of tomorrow is Ishmel Beah's greatest works.Read more...</p>
 </div>
-</div>
-</body>
-</html>
-
-
-
-
 </body>
 </html>

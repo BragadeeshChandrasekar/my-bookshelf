@@ -1,0 +1,19 @@
+<%@page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>My Bookshelf.com</title>
+</head>
+<body background="C:\Users\C Bragadeesh\Downloads\book1.jpg width=400 height=500">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><div class="text-primary">
+<h1>My Bookshelf.com</h1>
+</div>
+<p class="text-primary">This is one of the leading online book store.You can order and buy or buy it directly.
+Enjoy the reading experience with the quality books.Just add to cart and buy the books you love.
+Hurry!10%Discount  according to first come first serve basis.</p>
+</div>
+</body>
+</html>

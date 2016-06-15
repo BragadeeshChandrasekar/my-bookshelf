@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="IE=edge; charset=UTF-8">
+  <title>Log-In</title>
+</head>
+<body background="newbook.jpg">
+<form class="form-inline" role="form">
+<form action="LoginServlet"></form>
+<div class="container">
+<h1>Login</h1>
+</div>
+<div class="form-group">
+<label for= "e-mail">E-mail</label>
+<input type="e-mail" class="form control" id="e-mail" placeholder="Enter E-mail">
+</div>
+<div class="form-group">
+<label for="pwd">Password</label>
+<input type="password" class="form control" id="pwd" placeholder="Enter password">
+</div>
+<div class="checkbox">
+<label><input type="checkbox">Remember me</label></div>
+<form action="home.jsp">
+<button type="submit" class="btn btn-primary">Submit</button>
+<button type="clear" class="btn btn danger">Reset</button>
+</form>
+</body>
+</html>

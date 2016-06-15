@@ -1,0 +1,15 @@
+package com.niit.mybookshelf.dao;
+
+public class UserDAO {
+public boolean isValidCredentials(String UserID,String password)
+{
+if(UserID.equals("") && password.equals(""))
+		{
+	return true;
+}
+else
+{
+	return false;
+}
+}
+}
